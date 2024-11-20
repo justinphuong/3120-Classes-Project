@@ -41,3 +41,7 @@ my_animal.show_details()
 my_animal.eat()
 my_animal.make_sound()
 
+swim_animal = Animal(name ="Salmon",backbone=True,classification="Fish",diet="Omnivore",sound="Gup")
+swim_animal.show_details()
+swim_animal.eat()
+swim_animal.make_sound()
